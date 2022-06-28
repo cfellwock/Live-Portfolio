@@ -144,10 +144,6 @@ a {
     font-size: large;
 }
 
-.about-me span {
-    background: rgba(rgb(153, 153, 153), .5)
-}
-
 /* Flex grid controls*/
 
 .flex-container-2 {
